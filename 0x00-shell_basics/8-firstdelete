@@ -1,0 +1,2 @@
+#!/bin/bash
+dd /tmp/my_first_directory
